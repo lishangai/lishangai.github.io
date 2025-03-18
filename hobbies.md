@@ -18,12 +18,4 @@ Table tennis, or ping pong, is another sport that I’m passionate about. The pr
 
 ## Past Hobbies
 
-I used to spend hours hiking through the hills near my hometown, sketching landscapes, and binge-watching documentaries about public health innovations. Recently, though, my time is filled with badminton, table tennis, hooks, and beads.
-
-## My Dream Craft Corner
-
-One day, I’d love to have a cozy little craft nook filled with yarn in every shade and beads of every size—a space where I can create, dream, and maybe even teach others the joy of crafting.
-
-<div>
-<img src="/images/craftcorner.jpg">
-</div>
+In the past, I spent a lot of time running long distances and swimming. Both activities helped me build endurance and enjoy the sense of achievement that comes with pushing my physical limits. I would often take part in local running events or head to the pool for a refreshing swim. These hobbies also gave me a chance to clear my mind and reflect. Recently, however, my focus has shifted to badminton and table tennis.
