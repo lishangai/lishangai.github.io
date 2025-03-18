@@ -39,7 +39,7 @@ My research not only focuses on leveraging machine learning and deep learning mo
 **Huazhong University of Science and Technology, China**  
 *Major: Basic Medicine; Minor: Computer Science and Technology | Sep 2021 - Expected Jun 2026*
 
-- GPA: Basic Medicine: 86.3/100 (Rank: 7/25); Computer Science: 89.8/100
+- GPA: Basic Medicine: 86.3/100 ; Computer Science: 89.8/100
 - Honors: 2025 CSC and Mitacs Undergraduate Research Internship Collaboration Scholarship; Third Prize in Basic Medicine (2024 Undergraduate Academic Conference)
 
 **The University of Texas at Austin, USA**  
