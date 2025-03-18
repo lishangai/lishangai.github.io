@@ -2,7 +2,7 @@ title: Shangai Li
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://alanqmql.github.io/
+url: https://lishangai.github.io/
 
 # Owner/author information
 owner:
@@ -10,10 +10,10 @@ owner:
   avatar: shangai.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: lishangai2003@gmail.com
-  cv: https://alanqmql.github.io/file/CV-ShangaiLi.pdf
+  cv: https://lishangai.github.io/file/CV-ShangaiLi.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
-  github: alanqmql
+  github: lishangai
   #linkedin: hanlincai
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   #bilibili: 594030035
