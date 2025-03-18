@@ -16,12 +16,12 @@ If you are interested in my work or potential collaborations, feel free to reach
 
 ## Research Interests
 
-- **Artificial Intelligence in Healthcare**
-- **Machine Learning & Deep Learning for Disease Diagnosis**
-- **Computational Biology and Bioinformatics**
+- **Artificial Intelligence in Healthcare and Pure AI Theory**
+- **Machine Learning & Fundamental AI**
+- **Computational Biology & Bioinformatics**
 - **Biomedical Data Science and Medical Informatics**
 
-My current research focuses on applying machine learning and deep learning models to solve healthcare problems, including activity recognition in Parkinson’s disease and genomic data analysis for cancer. I am also interested in bioinformatics tools for personalized medicine and improving patient outcomes through data-driven insights.
+My research not only focuses on leveraging machine learning and deep learning models to address healthcare challenges, such as activity recognition in Parkinson’s disease and genomic data analysis for cancer, but also on exploring and developing theoretical frameworks and methods in pure AI. I am passionate about creating bioinformatics tools for personalized medicine and enhancing patient outcomes through data-driven insights, while actively engaging in foundational AI research to drive technological breakthroughs across diverse fields.
 
 ---
 
