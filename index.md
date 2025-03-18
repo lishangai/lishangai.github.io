@@ -1,41 +1,76 @@
----
+```yaml
 layout: page
----
+```
 
 # About Me
 
-<img src="https://alanqmql.github.io/lishangai.jpg" class="floatpic">
+![](https://alanqmql.github.io/lishangai.jpg)
 
-Here is **Shangai Li (Evan, 李尚艾)**.<br>
+Here is **Shangai Li (Evan, 李尚艾)**.
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am a fourth-year student at Huazhong University of Science and Technology, pursuing dual degrees in Basic Medicine and Computer Science, with an expected graduation in June 2026. My research interests lie at the intersection of healthcare and technology, particularly the application of computational methods to address complex challenges in the biomedical field. I am passionate about using artificial intelligence and data science to improve healthcare delivery, particularly in personalized medicine. I am seeking a PhD position for Fall 2026 to further my studies and contribute to cutting-edge research in AI-powered healthcare solutions.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
-
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
+If you are interested in my work or potential collaborations, feel free to reach out to me at - [lishangai2003@hust.edu.cn](mailto:lishangai2003@hust.edu.cn).
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
+- **Artificial Intelligence in Healthcare**
+- **Machine Learning & Deep Learning for Disease Diagnosis**
+- **Computational Biology and Bioinformatics**
+- **Biomedical Data Science and Medical Informatics**
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on applying machine learning and deep learning models to solve healthcare problems, including activity recognition in Parkinson’s disease and genomic data analysis for cancer. I am also interested in bioinformatics tools for personalized medicine and improving patient outcomes through data-driven insights.
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **March 2025**: Excited to submit my paper *"Long Short-Term Memory Attention for Parkinson’s Activity Recognition"* to the ABC 2025: 7th International Conference on Activity and Behavior Computing.
+- **May 2025**: I will begin my Mitacs Globalink Research Internship in Canada, focusing on computational analysis of BRM gene expression in cancer research.
+- **Summer 2024**: Completed an enriching exchange program at The University of Texas at Austin, excelling in Python Programming and Data Analytics.
+- **August 2024**: Led a Brain Tumor Dataset Analysis project using machine learning to identify potential biomarkers for early diagnosis.
+- **May 2024**: Awarded the Annual Best Thesis Award (Top 1/300) at the Undergraduate Academic Conference.
+- **2023–2024**: Directed a research project on the CXCR2-mediated response of pancreatic cancer cells to IRE treatment, earning recognition for innovation and teamwork.
 
-<br>
+---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&ref_src=twsrc%5Etfw">#AAAI</a> & <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>— Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Education
+
+**Huazhong University of Science and Technology, China**  
+*Dual Degrees: Basic Medicine (B.M.), Computer Science (B.E.) | Sep 2021 - Expected Jun 2026*
+
+- GPA: Basic Medicine: 86.3 (Rank 7/25), Computer Science: 89.8 (Rank 2/10)
+- Relevant Coursework: Cell Biology, Biochemistry & Molecular Biology, Medical Genetics, Algorithm Design & Analysis, Data Structures, Software Engineering
+- Honors: 2025 CSC and Mitacs Undergraduate Research Internship Collaboration Scholarship, Third Prize in Basic Medicine (2024 Undergraduate Academic Conference)
+
+**The University of Texas at Austin, USA**  
+*Exchange Student | Summer 2024*
+
+- GPA: 4.0 (straight A’s)
+- Relevant Coursework: Python Programming, Data Analytics (R Language)
+
+---
+
+## Skills
+
+- **Programming & Machine Learning**: Proficient in Python (PyTorch, scikit-learn, Pandas, NumPy), R, C++
+- **Machine Learning**: Experience with algorithms such as decision trees, random forests, SVM, KNN, XGBoost, CNN, LSTM, and attention-based models.
+- **Data Analysis**: Strong background in data analysis, statistical modeling, and bioinformatics tools.
+- **Deep Learning**: Expertise in PyTorch for model development and training.
+- **Bioinformatics**: Applied bioinformatics techniques for genomic data processing and analysis.
+- **Languages**: English (IELTS 6.5), Mandarin
+
+---
+
+## Future Goals
+
+For my graduate studies, I aim to:
+
+1. Further my expertise in artificial intelligence, specifically in its application to healthcare and biomedical research.
+2. Contribute to advancing machine learning techniques for personalized healthcare and disease diagnosis.
+3. Engage in interdisciplinary research that bridges the gap between medicine and technology to improve patient outcomes.
+4. Collaborate internationally with researchers and institutions to push the boundaries of computational medicine and AI applications.
+
+---
