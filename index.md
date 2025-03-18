@@ -1,12 +1,12 @@
-```yaml
+---
 layout: page
-```
+---
 
 # About Me
 
-![](https://alanqmql.github.io/lishangai.jpg)
+<img src="https://alanqmql.github.io/lishangai.jpg" class="floatpic">
 
-Here is **Shangai Li (Evan, 李尚艾)**.
+Here is **Shangai Li (Evan, 李尚艾)**.<br>
 
 I am a fourth-year student at Huazhong University of Science and Technology, pursuing dual degrees in Basic Medicine and Computer Science, with an expected graduation in June 2026. My research interests lie at the intersection of healthcare and technology, particularly the application of computational methods to address complex challenges in the biomedical field. I am passionate about using artificial intelligence and data science to improve healthcare delivery, particularly in personalized medicine. I am seeking a PhD position for Fall 2026 to further my studies and contribute to cutting-edge research in AI-powered healthcare solutions.
 
