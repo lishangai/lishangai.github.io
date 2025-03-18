@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shangai Li (Evan, 李尚艾)**.<br>
 
-I am a fourth-year student at Huazhong University of Science and Technology, majoring in Basic Medicine with a minor in Computer Science, with an expected graduation in June 2026.My research interests lie at the intersection of healthcare and technology, particularly the application of computational methods to address complex challenges in the biomedical field. I am passionate about using artificial intelligence and data science to improve healthcare delivery, particularly in personalized medicine. I am seeking a PhD position for Fall 2026 to further my studies and contribute to cutting-edge research in AI-powered healthcare solutions.
+I am a fourth-year student majoring in Basic Medicine with a minor in Computer Science at Huazhong University of Science and Technology, expecting to graduate in June 2026. My research interests intersect healthcare and technology, focusing on applying computational methods to tackle complex biomedical challenges. I am passionate about using artificial intelligence and data science to enhance healthcare delivery, particularly in personalized medicine. Beyond healthcare, I also have a broad interest in foundational frameworks and other research areas within AI. I plan to pursue a PhD position in Fall 2026 to further my studies and contribute to cutting-edge research in AI-driven healthcare solutions and foundational AI theory.
 
 If you are interested in my work or potential collaborations, feel free to reach out to me at - [lishangai2003@hust.edu.cn](mailto:lishangai2003@hust.edu.cn).
 
