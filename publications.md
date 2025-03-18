@@ -9,7 +9,7 @@ title: Publications
 ## Working Paper
 
 - **Long Short-Term Memory Attention for Parkinson’s Activity Recognition**  
-  **Authors:** Shangai Li, Hilmi Demirhan, et al.  
+  **Authors:** Shangai Li, Hilmi Demirhan~, et al.  
   **Affiliations:**  
   - Shangai Li, Huazhong University of Science and Technology, Wuhan, China  
   - Hilmi Demirhan, University of North Carolina Wilmington, USA  
