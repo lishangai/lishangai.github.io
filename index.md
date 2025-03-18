@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shangai Li (Evan, 李尚艾)**.<br>
 
-I am a fourth-year student at Huazhong University of Science and Technology, pursuing dual degrees in Basic Medicine and Computer Science, with an expected graduation in June 2026. My research interests lie at the intersection of healthcare and technology, particularly the application of computational methods to address complex challenges in the biomedical field. I am passionate about using artificial intelligence and data science to improve healthcare delivery, particularly in personalized medicine. I am seeking a PhD position for Fall 2026 to further my studies and contribute to cutting-edge research in AI-powered healthcare solutions.
+I am a fourth-year student at Huazhong University of Science and Technology, majoring in Basic Medicine with a minor in Computer Science, with an expected graduation in June 2026.My research interests lie at the intersection of healthcare and technology, particularly the application of computational methods to address complex challenges in the biomedical field. I am passionate about using artificial intelligence and data science to improve healthcare delivery, particularly in personalized medicine. I am seeking a PhD position for Fall 2026 to further my studies and contribute to cutting-edge research in AI-powered healthcare solutions.
 
 If you are interested in my work or potential collaborations, feel free to reach out to me at - [lishangai2003@hust.edu.cn](mailto:lishangai2003@hust.edu.cn).
 
@@ -30,8 +30,6 @@ My current research focuses on applying machine learning and deep learning model
 - **March 2025**: Excited to submit my paper *"Long Short-Term Memory Attention for Parkinson’s Activity Recognition"* to the ABC 2025: 7th International Conference on Activity and Behavior Computing.
 - **May 2025**: I will begin my Mitacs Globalink Research Internship in Canada, focusing on computational analysis of BRM gene expression in cancer research.
 - **Summer 2024**: Completed an enriching exchange program at The University of Texas at Austin, excelling in Python Programming and Data Analytics.
-- **August 2024**: Led a Brain Tumor Dataset Analysis project using machine learning to identify potential biomarkers for early diagnosis.
-- **May 2024**: Awarded the Annual Best Thesis Award (Top 1/300) at the Undergraduate Academic Conference.
 - **2023–2024**: Directed a research project on the CXCR2-mediated response of pancreatic cancer cells to IRE treatment, earning recognition for innovation and teamwork.
 
 ---
@@ -39,17 +37,15 @@ My current research focuses on applying machine learning and deep learning model
 ## Education
 
 **Huazhong University of Science and Technology, China**  
-*Dual Degrees: Basic Medicine (B.M.), Computer Science (B.E.) | Sep 2021 - Expected Jun 2026*
+*Major: Basic Medicine; Minor: Computer Science and Technology | Sep 2021 - Expected Jun 2026*
 
-- GPA: Basic Medicine: 86.3 (Rank 7/25), Computer Science: 89.8 (Rank 2/10)
-- Relevant Coursework: Cell Biology, Biochemistry & Molecular Biology, Medical Genetics, Algorithm Design & Analysis, Data Structures, Software Engineering
-- Honors: 2025 CSC and Mitacs Undergraduate Research Internship Collaboration Scholarship, Third Prize in Basic Medicine (2024 Undergraduate Academic Conference)
+- GPA: Basic Medicine: 86.3/100 (Rank: 7/25); Computer Science: 89.8/100
+- Honors: 2025 CSC and Mitacs Undergraduate Research Internship Collaboration Scholarship; Third Prize in Basic Medicine (2024 Undergraduate Academic Conference)
 
 **The University of Texas at Austin, USA**  
 *Exchange Student | Summer 2024*
 
 - GPA: 4.0 (straight A’s)
-- Relevant Coursework: Python Programming, Data Analytics (R Language)
 
 ---
 
