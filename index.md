@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://alanqmql.github.io/lishangai.jpg" class="floatpic">
+<img src="https://lishangai.github.io//lishangai.jpg" class="floatpic">
 
 Here is **Shangai Li (Evan, 李尚艾)**.<br>
 
