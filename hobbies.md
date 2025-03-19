@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-This page gives a glimpse into my creative world, which I’ve been diving into more deeply over the past year. Along with my growing interest in crocheting and pixel bead art, I’ve always loved the active enjoyment that badminton and table tennis bring. If you're ever up for a match or just want to chat about rackets and paddles, feel free to drop me a line at houyanqiu2003@163.com!
+Whether it's the lightning-fast badminton court or the cerebral ping pong table, I find joy and challenge in both sports. The rapid dodges and precise smashes of badminton bring me the collision of speed and passion; while the precise spins and intense back-and-forth of ping pong constantly hone my focus and reflexes. In the past, long-distance running and swimming gave me resilience and a clear mindset, but now, intense badminton and dynamic ping pong have become indispensable sources of passion in my life, infusing every swing with boundless energy and enjoyment.
 
 ## Badminton
 
