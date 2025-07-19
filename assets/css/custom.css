@@ -1,0 +1,243 @@
+/* Custom CSS for a Modern, Tech-Focused Academic Portfolio */
+
+:root {
+  --background-color: #1a1a2e; /* Deep navy blue */
+  --card-background-color: rgba(255, 255, 255, 0.05);
+  --text-color: #e0e0e0; /* Off-white for readability */
+  --header-color: #ffffff;
+  --accent-color: #00aaff; /* A vibrant, techy blue */
+  --accent-color-hover: #0088cc;
+  --border-color: rgba(255, 255, 255, 0.1);
+  --shadow-color: rgba(0, 170, 255, 0.2);
+  --sans-serif-font: 'PT Sans Narrow', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --serif-font: 'PT Serif', Georgia, 'Times New Roman', serif;
+}
+
+/* --- Base Styles --- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: var(--serif-font);
+  transition: background-color 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--header-color);
+  font-family: var(--sans-serif-font);
+  font-weight: 700;
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--accent-color-hover);
+}
+
+/* --- Header & Navigation --- */
+.navigation-wrapper {
+  background: rgba(26, 26, 46, 0.8);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border-color);
+}
+
+/* --- Hero Section --- */
+.hero-section {
+  text-align: center;
+  padding: 80px 20px 40px 20px;
+  background: linear-gradient(180deg, var(--background-color) 0%, rgba(26, 26, 46, 0) 100%);
+}
+
+.hero-section .hero-name {
+  font-size: 3.5em;
+  font-weight: 700;
+  color: var(--header-color);
+  margin: 0;
+}
+
+.hero-section .hero-tagline {
+  font-size: 1.5em;
+  color: var(--accent-color);
+  margin: 10px 0 25px 0;
+  font-family: var(--sans-serif-font);
+}
+
+.hero-section .hero-contact {
+  margin-top: 20px;
+}
+
+.hero-section .hero-contact a {
+  margin: 0 15px;
+  font-size: 1.2em;
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+.hero-section .hero-contact a:hover {
+  color: var(--accent-color);
+}
+
+/* --- Content Styling --- */
+.content-wrapper {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.content-card {
+  background-color: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 30px;
+  margin-bottom: 40px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.content-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px var(--shadow-color);
+}
+
+.content-card h2 {
+  font-size: 2em;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+/* --- Expertise Section --- */
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  text-align: center;
+}
+
+.expertise-item {
+  background-color: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 25px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.expertise-item:hover {
+  transform: translateY(-5px);
+  background-color: rgba(0, 170, 255, 0.1);
+}
+
+.expertise-item .icon {
+  font-size: 2.5em;
+  color: var(--accent-color);
+  margin-bottom: 15px;
+}
+
+.expertise-item h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: var(--header-color);
+}
+
+/* --- Profile Picture --- */
+.floatpic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 4px solid var(--accent-color);
+  box-shadow: 0 0 25px var(--shadow-color);
+  margin-bottom: 20px;
+}
+
+/* --- Animation --- */
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.fade-in-section.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* --- Publications List --- */
+#publications-list ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#publications-list li {
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+#publications-list .publication-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: var(--header-color);
+  display: block;
+}
+
+#publications-list .publication-authors {
+  font-style: italic;
+  color: var(--text-color);
+  display: block;
+}
+
+#publications-list .publication-venue {
+  font-size: 0.9em;
+  color: var(--text-color);
+  display: block;
+}
+
+/* Override existing styles that might conflict */
+#main article {
+    width: 100%;
+    margin: 0;
+}
+.footer-wrap {
+    background-color: transparent;
+    border-top: 1px solid var(--border-color);
+}
+.footer-wrap a, .footer-wrap p, .footer-wrap h4 {
+    color: var(--text-color);
+}
+.footer-wrap a:hover {
+    color: var(--accent-color);
+}
+body {
+    word-wrap: break-word; /* Ensure long words don't overflow */
+}
+p+p {
+    text-indent: 0; /* remove unnecessary text-indent */
+}
+blockquote {
+    border-left-color: var(--accent-color);
+    background-color: var(--card-background-color);
+    color: var(--text-color);
+}
+p > a, li > a, em > a, a > em, footer a {
+    border-bottom: 1px dotted var(--accent-color);
+}
+p > a:hover, li > a:hover, em > a:hover, footer a:hover {
+    border-bottom: 1px solid var(--accent-color-hover);
+}
+pre, code {
+    background: rgba(0,0,0,0.2);
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+}
+p code {
+    font-size: 85%;
+} 
