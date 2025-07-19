@@ -1,19 +1,20 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Awards & Achievements
 ---
 
-> Update: 18th Mar 2025
+- **CSC & Mitacs Undergraduate Research Internship Collaboration Scholarship (2025)**
+  - Selected as one of <200 students nationwide for a fully-funded research internship in Canada.
 
-## Scholarships
+- **The 7th Activity and Behavior Computing Challenge, 3rd Place (2025)**
+  - Secured 3rd Place in an international competition by developing a novel deep learning model for Parkinson's activity recognition.
 
-- 2025：​**CSC-Mitacs Undergraduate Research Internship Scholarship**<br>Jointly awarded by China Scholarship Council and Mitacs for international research collaboration
+- **Third Prize & Outstanding Teamwork Award (Mar 2024)**
+  - Awarded for leading a project investigating novel therapeutic responses in pancreatic cancer, presented at the university's flagship medical conference.
 
-## Competitions
+- **National High School Physics Competition, Provincial Second Prize (2020)**
+  - Secured Provincial Second Prize, placing 35th in the theoretical exam portion of the competition.
 
-- 2024：​**Bronze Award in Basic Medicine**<br>2024 Undergraduate Academic Conference, recognizing original research in medical sciences
-- 2024：​**Outstanding Teamwork Award**<br>School-level recognition for collaborative research project excellence
-- 2024：​**Silver Award in Integrated Competencies**<br>FLTRP·ETIC Cup "Understanding Contemporary China" National Foreign Language Skills Competition (Campus Level)
-- 2020：​**National High school Physics Competition Provincial Second Prize**<br>Ranked 35th in Province theoretical examination 
-- 2019：​**Provincial High school Chemistry Competition First Prize**<br>Top honor in Grade 10 division of  Provincial Olympiad
+- **Provincial High School Chemistry Competition, First Prize (2019)**
+  - Achieved First Prize in the provincial-level competition within the Grade 10 cohort.
